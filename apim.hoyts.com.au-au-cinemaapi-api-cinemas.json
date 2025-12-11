@@ -244,6 +244,7 @@
     "thumbnailImage": "cinemas/carousel.jpg",
     "features": [
       "LUX",
+      "IMAX",
       "D-BOX",
       "Xtremescreen",
       "Daybeds",
@@ -989,6 +990,7 @@
     "features": [
       "D-BOX",
       "Xtremescreen",
+      "Daybeds",
       "Recliners",
       "3D"
     ],
