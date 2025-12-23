@@ -125,6 +125,7 @@
     "name": "Blacktown",
     "thumbnailImage": "cinemas/blacktown-1.jpg",
     "features": [
+      "IMAX",
       "D-BOX",
       "SCREENX",
       "Xtremescreen",
