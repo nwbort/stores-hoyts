@@ -39,7 +39,10 @@
     "name": "Arndale",
     "thumbnailImage": "cinemas/arndale-landing-page.jpg",
     "features": [
+      "D-BOX",
       "Xtremescreen",
+      "Daybeds",
+      "Recliners",
       "3D"
     ],
     "state": "SA",
