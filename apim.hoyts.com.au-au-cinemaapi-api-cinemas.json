@@ -544,7 +544,7 @@
     "longitude": 151.227329,
     "link": "/cinemas/entertainment-quarter",
     "treatCity": true,
-    "benAndJerry": false,
+    "benAndJerry": true,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -1035,7 +1035,7 @@
     "longitude": 150.693972,
     "link": "/cinemas/penrith",
     "treatCity": false,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
