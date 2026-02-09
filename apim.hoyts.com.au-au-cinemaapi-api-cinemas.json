@@ -1069,7 +1069,7 @@
     "timeZone": "AUS Eastern Standard Time",
     "link": "/cinemas/penrith",
     "treatCity": false,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
