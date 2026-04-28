@@ -34,6 +34,35 @@
     }
   },
   {
+    "id": "ROKCIN",
+    "loyaltyCode": 90,
+    "slug": "ace-rockingham",
+    "name": "ACE HOYTS Rockingham",
+    "thumbnailImage": "cinemas/rockingham---site-image-edit.jpg",
+    "features": [
+      "LUX",
+      "Xtremescreen",
+      "3D"
+    ],
+    "state": "WA",
+    "street": "Level 2, 1 Syren Street",
+    "suburb": "Rockingham",
+    "phone": "08 9466 4960",
+    "latitude": -32.2881253799473,
+    "longitude": 115.747787982843,
+    "link": "/cinemas/ace-rockingham",
+    "treatCity": false,
+    "benAndJerry": false,
+    "deliveryToDoor": false,
+    "deliveryToSeat": false,
+    "address": {
+      "street": "Level 2, 1 Syren Street",
+      "suburb": "Rockingham",
+      "state": "WA",
+      "postCode": "6168"
+    }
+  },
+  {
     "id": "ARNCIN",
     "loyaltyCode": 81,
     "slug": "arndale",
