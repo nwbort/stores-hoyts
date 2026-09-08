@@ -12,6 +12,7 @@
       "Daybeds",
       "Lounge",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "WA",
@@ -42,6 +43,7 @@
     "features": [
       "LUX",
       "Xtremescreen",
+      "Infinity Vision",
       "3D"
     ],
     "state": "WA",
@@ -75,6 +77,7 @@
       "Daybeds",
       "Lounge",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "SA",
@@ -136,6 +139,7 @@
       "D-BOX",
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "ACT",
@@ -170,6 +174,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -202,6 +207,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -235,6 +241,7 @@
       "SCREENX",
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -295,6 +302,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "WA",
@@ -329,6 +337,7 @@
       "Daybeds",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -422,6 +431,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -486,7 +496,8 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
-      "Atmos"
+      "Atmos",
+      "Infinity Vision"
     ],
     "state": "WA",
     "street": "1244 Marmion Ave",
@@ -518,6 +529,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -551,6 +563,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -585,6 +598,7 @@
       "ONYX",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D",
       "HOYTS Cinema 9"
     ],
@@ -619,6 +633,7 @@
       "Daybeds",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -680,6 +695,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -709,6 +725,7 @@
     "thumbnailImage": "cinemas/garden-city.jpg",
     "features": [
       "Xtremescreen",
+      "Infinity Vision",
       "3D"
     ],
     "state": "WA",
@@ -743,6 +760,7 @@
       "Daybeds",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -773,6 +791,7 @@
       "D-BOX",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -808,6 +827,7 @@
       "Daybeds",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -868,7 +888,8 @@
     "name": "Joondalup",
     "thumbnailImage": "cinemas/joondalup-candy-bar--thumbnail-image-template.png",
     "features": [
-      "Xtremescreen"
+      "Xtremescreen",
+      "Infinity Vision"
     ],
     "state": "WA",
     "street": "420 Joondalup Dr",
@@ -903,6 +924,7 @@
       "Daybeds",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "WA",
@@ -940,6 +962,7 @@
       "Standard with Lean-Back",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -970,6 +993,7 @@
     "features": [
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "WA",
@@ -1002,6 +1026,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -1033,6 +1058,7 @@
       "D-BOX",
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -1065,6 +1091,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "SA",
@@ -1094,6 +1121,7 @@
     "thumbnailImage": "cinemas/pen-web.jpg",
     "features": [
       "Xtremescreen",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -1124,6 +1152,7 @@
     "features": [
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "QLD",
@@ -1154,6 +1183,7 @@
     "features": [
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "SA",
@@ -1216,6 +1246,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "QLD",
@@ -1248,6 +1279,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "QLD",
@@ -1281,6 +1313,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "SA",
@@ -1314,6 +1347,7 @@
       "Daybeds",
       "Recliners",
       "Atmos",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -1345,6 +1379,7 @@
       "D-BOX",
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -1376,6 +1411,7 @@
       "LUX",
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -1464,7 +1500,8 @@
     "features": [
       "LUX",
       "Xtremescreen",
-      "Recliners"
+      "Recliners",
+      "Infinity Vision"
     ],
     "state": "WA",
     "street": "639 Beach Rd",
@@ -1496,6 +1533,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "VIC",
@@ -1529,6 +1567,7 @@
       "Xtremescreen",
       "Daybeds",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "NSW",
@@ -1560,6 +1599,7 @@
       "D-BOX",
       "Xtremescreen",
       "Recliners",
+      "Infinity Vision",
       "3D"
     ],
     "state": "ACT",
