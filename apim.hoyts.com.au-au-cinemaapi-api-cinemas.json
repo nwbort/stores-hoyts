@@ -592,6 +592,7 @@
     "name": "Entertainment Quarter",
     "thumbnailImage": "cinemas/entertainment-quarter.jpg",
     "features": [
+      "HOYTS APEX",
       "LUX",
       "D-BOX",
       "Xtremescreen",
@@ -820,6 +821,7 @@
     "name": "Highpoint",
     "thumbnailImage": "cinemas/highpoint.jpg",
     "features": [
+      "HOYTS APEX",
       "LUX",
       "D-BOX",
       "Xtremescreen",
