@@ -663,6 +663,7 @@
     "name": "Forest Hill",
     "thumbnailImage": "cinemas/forest-hill.jpg",
     "features": [
+      "D-BOX",
       "Recliners",
       "3D"
     ],
@@ -1566,6 +1567,7 @@
     "features": [
       "LUX",
       "D-BOX",
+      "SCREENX",
       "Xtremescreen",
       "Daybeds",
       "Recliners",
