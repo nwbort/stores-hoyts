@@ -612,7 +612,7 @@
     "timeZone": "AUS Eastern Standard Time",
     "link": "/cinemas/entertainment-quarter",
     "treatCity": true,
-    "benAndJerry": false,
+    "benAndJerry": true,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
