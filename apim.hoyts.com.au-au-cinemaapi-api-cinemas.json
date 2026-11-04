@@ -35,6 +35,39 @@
     }
   },
   {
+    "id": "MORCIN",
+    "loyaltyCode": 91,
+    "slug": "morley",
+    "name": "ACE HOYTS Morley",
+    "thumbnailImage": "cinemas/morley-comingsoon-heroimage-card-1314x888.png",
+    "features": [
+      "HOYTS APEX",
+      "D-BOX",
+      "Xtremescreen",
+      "Daybeds",
+      "Standard with Lean-Back",
+      "Recliners"
+    ],
+    "state": "WA",
+    "street": "Galleria Shopping Centre, Level 1, 284 Collier Rd",
+    "suburb": "Morley",
+    "phone": "08 6509 4060",
+    "latitude": -31.8969439386192,
+    "longitude": 115.899182613077,
+    "timeZone": "W. Australia Standard Time",
+    "link": "/cinemas/morley",
+    "treatCity": false,
+    "benAndJerry": false,
+    "deliveryToDoor": false,
+    "deliveryToSeat": false,
+    "address": {
+      "street": "Galleria Shopping Centre, Level 1, 284 Collier Rd",
+      "suburb": "Morley",
+      "state": "WA",
+      "postCode": "6065"
+    }
+  },
+  {
     "id": "ROKCIN",
     "loyaltyCode": 90,
     "slug": "ace-rockingham",
@@ -1400,6 +1433,20 @@
       "suburb": "Tweed Heads",
       "state": "NSW",
       "postCode": "2486"
+    },
+    "rsa": {
+      "cinemaId": "TWDCTY",
+      "start": "10:00AM",
+      "stop": "10:00PM",
+      "holidayStart": "10:00AM",
+      "holidayStop": "10:00PM",
+      "holidayFood": false,
+      "defaultMaxDrinks": 6,
+      "maxDrinks": 0,
+      "luxDefaultMaxDrinks": 0,
+      "luxMaxDrinks": 0,
+      "adultsOnly": false,
+      "liquorLicense": "LIQO660033476"
     }
   },
   {
