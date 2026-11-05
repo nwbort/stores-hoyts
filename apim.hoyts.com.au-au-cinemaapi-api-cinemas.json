@@ -39,9 +39,8 @@
     "loyaltyCode": 91,
     "slug": "morley",
     "name": "ACE HOYTS Morley",
-    "thumbnailImage": "cinemas/morley-comingsoon-heroimage-card-1314x888.png",
+    "thumbnailImage": "cinemas/morley-comingsoon-heroimage-card-1314x888-1.png",
     "features": [
-      "HOYTS APEX",
       "D-BOX",
       "Xtremescreen",
       "Daybeds",
@@ -1412,6 +1411,7 @@
     "features": [
       "D-BOX",
       "Xtremescreen",
+      "XTRA",
       "Recliners",
       "Infinity Vision",
       "3D"
@@ -1436,9 +1436,9 @@
     },
     "rsa": {
       "cinemaId": "TWDCTY",
-      "start": "10:00AM",
+      "start": "9:50AM",
       "stop": "10:00PM",
-      "holidayStart": "10:00AM",
+      "holidayStart": "9:50AM",
       "holidayStop": "10:00PM",
       "holidayFood": false,
       "defaultMaxDrinks": 6,
