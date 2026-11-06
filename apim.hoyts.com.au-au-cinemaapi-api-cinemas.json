@@ -43,6 +43,7 @@
     "features": [
       "D-BOX",
       "Xtremescreen",
+      "XTRA",
       "Daybeds",
       "Standard with Lean-Back",
       "Recliners"
@@ -55,7 +56,7 @@
     "longitude": 115.899182613077,
     "timeZone": "W. Australia Standard Time",
     "link": "/cinemas/morley",
-    "treatCity": false,
+    "treatCity": true,
     "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
