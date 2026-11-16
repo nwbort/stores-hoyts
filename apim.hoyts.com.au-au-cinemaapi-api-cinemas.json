@@ -286,7 +286,7 @@
     "timeZone": "AUS Eastern Standard Time",
     "link": "/cinemas/broadway",
     "treatCity": false,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -347,7 +347,7 @@
     "timeZone": "W. Australia Standard Time",
     "link": "/cinemas/carousel",
     "treatCity": true,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -873,7 +873,7 @@
     "timeZone": "AUS Eastern Standard Time",
     "link": "/cinemas/highpoint",
     "treatCity": true,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -970,7 +970,7 @@
     "timeZone": "W. Australia Standard Time",
     "link": "/cinemas/karrinyup",
     "treatCity": true,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -1008,7 +1008,7 @@
     "timeZone": "AUS Eastern Standard Time",
     "link": "/cinemas/melbourne-central",
     "treatCity": false,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -1325,7 +1325,7 @@
     "timeZone": "E. Australia Standard Time",
     "link": "/cinemas/sunnybank",
     "treatCity": false,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
@@ -1393,7 +1393,7 @@
     "timeZone": "AUS Eastern Standard Time",
     "link": "/cinemas/district-docklands",
     "treatCity": true,
-    "benAndJerry": true,
+    "benAndJerry": false,
     "deliveryToDoor": false,
     "deliveryToSeat": false,
     "address": {
