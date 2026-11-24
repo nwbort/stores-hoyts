@@ -1428,7 +1428,7 @@
     "link": "/cinemas/tweed-city",
     "treatCity": false,
     "benAndJerry": false,
-    "deliveryToDoor": false,
+    "deliveryToDoor": true,
     "deliveryToSeat": false,
     "address": {
       "street": "54 Minjungbal Dr",
